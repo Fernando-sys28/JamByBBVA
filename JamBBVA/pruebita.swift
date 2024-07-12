@@ -10,6 +10,7 @@ import SwiftUI
 struct pruebita: View {
     var body: some View {
         Text("hola dodis")
+        Text("mr lock")
     }
 }
 
