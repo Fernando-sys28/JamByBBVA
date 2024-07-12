@@ -15,6 +15,7 @@ struct pimienton: View {
             .background(.red)
             
         Image(systemName: "car")
+        Text("dodiiiiis")
         
         
     }
