@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		449A68932C41C4B4005FE473 /* pruebita.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449A68922C41C4B4005FE473 /* pruebita.swift */; };
 		BAEB05CA2C41B8AF0062282D /* JamBBVAApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEB05C92C41B8AF0062282D /* JamBBVAApp.swift */; };
 		BAEB05CC2C41B8AF0062282D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEB05CB2C41B8AF0062282D /* ContentView.swift */; };
 		BAEB05CE2C41B8B00062282D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAEB05CD2C41B8B00062282D /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		449A68922C41C4B4005FE473 /* pruebita.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pruebita.swift; sourceTree = "<group>"; };
 		BAEB05C62C41B8AF0062282D /* JamBBVA.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JamBBVA.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAEB05C92C41B8AF0062282D /* JamBBVAApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JamBBVAApp.swift; sourceTree = "<group>"; };
 		BAEB05CB2C41B8AF0062282D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				BAEB05C92C41B8AF0062282D /* JamBBVAApp.swift */,
 				BAEB05CB2C41B8AF0062282D /* ContentView.swift */,
+				449A68922C41C4B4005FE473 /* pruebita.swift */,
 				BAEB05CD2C41B8B00062282D /* Assets.xcassets */,
 				BAEB05CF2C41B8B00062282D /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				449A68932C41C4B4005FE473 /* pruebita.swift in Sources */,
 				BAEB05CC2C41B8AF0062282D /* ContentView.swift in Sources */,
 				BAEB05CA2C41B8AF0062282D /* JamBBVAApp.swift in Sources */,
 			);
