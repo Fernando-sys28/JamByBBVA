@@ -9,7 +9,11 @@ import SwiftUI
 
 struct ceci: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        Text("te vistes feo")
+        Image("ceci")
+            .resizable()
+            .scaledToFit()
+            .frame(width: 150)
     }
 }
 

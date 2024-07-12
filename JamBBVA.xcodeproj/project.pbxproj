@@ -14,6 +14,7 @@
 		BAEB05D12C41B8B00062282D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BAEB05D02C41B8B00062282D /* Preview Assets.xcassets */; };
 		BAEB05DA2C41C7210062282D /* dodis.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEB05D92C41C7210062282D /* dodis.swift */; };
 		BAEB05DC2C41C88C0062282D /* pimienton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEB05DB2C41C88C0062282D /* pimienton.swift */; };
+		BAEB05DE2C41D0AA0062282D /* ceci.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAEB05DD2C41D0AA0062282D /* ceci.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		BAEB05D02C41B8B00062282D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BAEB05D92C41C7210062282D /* dodis.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dodis.swift; sourceTree = "<group>"; };
 		BAEB05DB2C41C88C0062282D /* pimienton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pimienton.swift; sourceTree = "<group>"; };
+		BAEB05DD2C41D0AA0062282D /* ceci.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ceci.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				BAEB05CB2C41B8AF0062282D /* ContentView.swift */,
 				BAEB05DB2C41C88C0062282D /* pimienton.swift */,
 				BAEB05D92C41C7210062282D /* dodis.swift */,
+				BAEB05DD2C41D0AA0062282D /* ceci.swift */,
 				449A68922C41C4B4005FE473 /* pruebita.swift */,
 				BAEB05CD2C41B8B00062282D /* Assets.xcassets */,
 				BAEB05CF2C41B8B00062282D /* Preview Content */,
@@ -151,6 +154,7 @@
 				BAEB05CC2C41B8AF0062282D /* ContentView.swift in Sources */,
 				BAEB05CA2C41B8AF0062282D /* JamBBVAApp.swift in Sources */,
 				BAEB05DC2C41C88C0062282D /* pimienton.swift in Sources */,
+				BAEB05DE2C41D0AA0062282D /* ceci.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
